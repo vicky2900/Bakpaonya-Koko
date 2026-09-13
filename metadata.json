@@ -1,0 +1,6 @@
+{
+  "name": "Bakpaonya Koko",
+  "description": "Artisanal steamed buns dengan tekstur selembut awan dan isian melimpah khas Koko. Freshly made setiap hari, 100% halal, dan tanpa bahan pengawet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
